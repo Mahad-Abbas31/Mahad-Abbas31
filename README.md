@@ -12,7 +12,6 @@
 - 🔭 I’m currently working on: **Air University Islamabad E-9 (Main) Campus**
 - 💬 Ask me about: **Web Development, Programming Solutions, AI Development, Use of AI**
 - 📫 How to reach me: [mahadabbas31@gmail.com](mailto:mahadabbas31@gmail.com)
-- 👨‍💻 My Portfolio: # *(Invalid URL)*
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
@@ -58,12 +57,12 @@
 <p>Project Management, Leadership</p>
 </div>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mahad-Abbas31&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="Mahad-Abbas31's GitHub Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Mahad-Abbas31&show_icons=true&locale=en&theme=gotham&count_private=true&hide_border=true" alt="Mahad-Abbas31's GitHub Stats" /></p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahad-Abbas31&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mahad-Abbas31&locale=en&theme=gotham&layout=compact&hide_border=true" alt="Top Languages" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Mahad-Abbas31&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=Mahad-Abbas31&theme=gotham&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mahad-Abbas31&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/Mahad-Abbas31" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Mahad-Abbas31" /></a>
+  <a href="https://github.com/sponsors/Mahad-Abbas31" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @Mahad-Abbas31" /></a>
 </p>
