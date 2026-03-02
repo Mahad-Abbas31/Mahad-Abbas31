@@ -9,7 +9,7 @@
 <h3 align="left">More About Me:</h3>
 
 - 🌱 I’m currently learning: **Object Oriented Programming with C++ & Java**
-- 🔭 I’m currently studying in: **Air University Islamabad E-9 (Main) Campus**
+- 📚 I’m currently studying in: **Air University Islamabad E-9 (Main) Campus**
 - 🔭 I’m currently working in: **Intern at Developers Hub Corporation-DHC**
 - 💬 Ask me about: **Web Development, Programming Solutions, AI Development, Use of AI**
 - 📫 How to reach me: [mahadabbas31@gmail.com](mailto:mahadabbas31@gmail.com)
