@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Mahad-Abbas31/Mahad-Abbas31/blob/main/github%20cover%201.jpg" alt="Profile Banner" width="100%">
+  <img src="https://github.com/Mahad-Abbas31/Mahad-Abbas31/blob/main/github%20cover1.jpg" alt="Profile Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mahad Abbas!</h1>
